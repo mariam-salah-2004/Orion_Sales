@@ -32,28 +32,19 @@ The model is optimized to bridge the gap between sales transactions and yearly f
 | --- | --- |
 | **product_dim** | Unique product registry.
 
- |
 | **customer_dim** | Demographic details with cleaned names.
 
- |
 | **category_dim** | Hierarchical grouping (Category/Subcategory).
 
- |
 | **geo_dim** | Granular data (Continent, State, City) used for Sales analysis.
 
- |
 | **country_dim** | Distinct from geo_dim to allow Forecast alignment at the country level.
 
- |
 | **brand_dim** | Conformed Dimension: Bridges Sales and Forecast for performance tracking.
 
- |
 | **color_dim** | Junk Dimension: Consolidates product colors into a single look-up table.
 
- |
 | **date_dim** | Role-Playing Dimension: Acts as a daily timeline for Sales and an annual anchor for Forecasts.
-
- |
 
 > **Note**: Data Model Visualization:
 <img width="1776" height="772" alt="Screenshot 2026-05-16 001702" src="https://github.com/user-attachments/assets/a96f7d73-b805-40e2-a366-137f6e86ca0f" />
