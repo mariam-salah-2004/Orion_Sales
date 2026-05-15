@@ -1,0 +1,307 @@
+Continent,State,City,GeoKey
+North America,Washington,Spokane,1
+North America,California,Bellflower,2
+North America,Oregon,Beaverton,3
+North America,Washington,Walla Walla,4
+North America,California,San Gabriel,5
+North America,California,Lincoln Acres,6
+North America,Washington,Redmond,7
+North America,Washington,Bellingham,8
+North America,California,Newport Beach,9
+North America,Washington,Seattle,10
+North America,Washington,Everett,11
+North America,California,Burbank,12
+North America,California,San Francisco,13
+North America,Washington,Yakima,14
+North America,California,Burlingame,15
+North America,California,Berkeley,16
+North America,California,Grossmont,17
+North America,California,Lakewood,18
+North America,California,San Diego,19
+North America,California,Oakland,20
+North America,California,San Carlos,21
+North America,California,Fremont,22
+North America,California,Mill Valley,23
+North America,California,Chula Vista,24
+North America,Oregon,Oregon City,25
+North America,California,West Covina,26
+North America,California,Santa Cruz,27
+North America,California,Colma,28
+North America,Washington,Burien,29
+North America,California,Concord,30
+North America,California,National City,31
+North America,California,Torrance,32
+North America,California,Palo Alto,33
+North America,California,Redwood City,34
+North America,California,Woodland Hills,35
+North America,California,Lemon Grove,36
+North America,California,Spring Valley,37
+North America,California,Santa Monica,38
+North America,California,Los Angeles,39
+North America,California,Imperial Beach,40
+North America,California,Beverly Hills,41
+North America,California,Downey,42
+North America,California,La Jolla,43
+North America,California,El Cajon,44
+North America,California,Coronado,45
+North America,California,Daly City,46
+North America,Washington,Marysville,47
+North America,Oregon,W. Linn,48
+North America,Texas,Baytown,49
+North America,Illinois,Chicago,50
+North America,Massachusetts,Worcester,51
+North America,Oregon,Woodburn,52
+North America,Washington,Bremerton,53
+North America,California,Long Beach,54
+North America,California,Glendale,55
+North America,California,Novato,56
+Europe,Hamburg,Hamburg,57
+Europe,Saxony,Eilenburg,58
+Europe,Hesse,Frankfurt,59
+Europe,North Rhine-Westphalia,Paderborn,60
+Europe,Saar,Saarlouis,61
+Europe,Berlin,Berlin,62
+Europe,Hesse,Offenbach Am Main,63
+Europe,North Rhine-Westphalia,Werne,64
+Europe,Saxony,Dresden,65
+Europe,North Rhine-Westphalia,Neunkirchen,66
+Europe,North Rhine-Westphalia,Bottrop,67
+Europe,Saar,Sulzbach Taunus,68
+Europe,Bavaria,Ingolstadt,69
+Europe,Hesse,Darmstadt,70
+Europe,North Rhine-Westphalia,Bonn,71
+Europe,Bavaria,Erlangen,72
+North America,Washington,Renton,73
+North America,Washington,Tacoma,74
+North America,Oregon,Corvallis,75
+North America,Oregon,Lebanon,76
+North America,Oregon,Portland,77
+North America,Oregon,Lake Oswego,78
+North America,Washington,Puyallup,79
+North America,Washington,Issaquah,80
+North America,Oregon,Salem,81
+North America,Washington,Kirkland,82
+North America,Washington,Olympia,83
+North America,Washington,Edmonds,84
+North America,Wyoming,Cheyenne,85
+North America,Washington,Sedro Woolley,86
+North America,Oregon,Milwaukie,87
+North America,Washington,Port Orchard,88
+North America,Washington,Lynnwood,89
+North America,Ohio,Cincinnati,90
+North America,California,Citrus Heights,91
+North America,Washington,Ballard,92
+Europe,Baden-Wuerttemberg,Stuttgart,93
+Europe,Bavaria,Hof,94
+Europe,Bavaria,Poing,95
+Europe,Lower Saxony,Hanover,96
+Europe,North Rhine-Westphalia,Solingen,97
+Europe,North Rhine-Westphalia,Dusseldorf,98
+Europe,Hesse,Mühlheim Am Main,99
+Europe,North Rhine-Westphalia,Munster,100
+Europe,North Rhine-Westphalia,Essen,101
+North America,California,Bell Gardens,102
+North America,California,City Of Commerce,103
+North America,Oregon,Clackamas,104
+Europe,Saxony,Leipzig,105
+Europe,Hesse,Kassel,106
+Europe,Bavaria,Munich,107
+Europe,Saar,Saarbrücken,108
+Europe,Lower Saxony,Salzgitter,109
+North America,Texas,College Station,110
+North America,New York,Clay,111
+North America,Georgia,Columbus,112
+Europe,Schleswig-Holstein,Kiel,113
+Europe,Lower Saxony,Brunswick,114
+North America,Florida,Bradenton,115
+Europe,North Rhine-Westphalia,Grevenbroich,116
+North America,South Carolina,Bluffton,117
+North America,California,Camarillo,118
+North America,Illinois,Carol Stream,119
+North America,California,Canoga Park,120
+North America,California,Barstow,121
+North America,Wyoming,Casper,122
+North America,Utah,Cedar City,123
+North America,Arizona,Chandler,124
+North America,New York,Central Valley,125
+North America,Washington,Bellevue,126
+North America,New York,Cheektowaga,127
+North America,Minnesota,Branch,128
+North America,Kentucky,Campbellsville,129
+North America,California,Carson,130
+North America,North Carolina,Charlotte,131
+North America,New York,Albany,132
+North America,Ohio,Columbus,133
+North America,Virginia,Alexandria,134
+North America,Texas,Cedar Park,135
+North America,Alaska,Anchorage,136
+North America,Wisconsin,Appleton,137
+North America,Texas,Arlington,138
+North America,Colorado,Aurora,139
+North America,Texas,Austin,140
+North America,Maryland,Baltimore,141
+North America,New Jersey,Bayonne,142
+North America,Texas,Beaumont,143
+North America,Colorado,Berthoud,144
+North America,Maryland,Bethesda,145
+North America,Maryland,Annapolis,146
+North America,Massachusetts,Boston,147
+North America,Montana,Billings,148
+North America,Virginia,Chantilly,149
+North America,Colorado,Boulder,150
+North America,New York,Brooklyn,151
+North America,New Jersey,Atlantic City,152
+North America,New York,Buffalo,153
+North America,Massachusetts,Braintree,154
+North America,Massachusetts,Attleboro,155
+North America,New Jersey,Cape May,156
+North America,Maine,Bangor,157
+North America,Maine,Bar Harbor,158
+North America,Colorado,Castle Rock,159
+North America,South Carolina,Charleston,160
+North America,Virginia,Charlottesville,161
+North America,Florida,Clearwater,162
+North America,Washington,Cheney,163
+North America,Washington,Cle Elum,164
+North America,Texas,Dallas,165
+North America,Connecticut,Darien,166
+North America,Texas,Denton,167
+North America,Wisconsin,Burlington,168
+North America,Florida,Cape Canaveral,169
+North America,Colorado,Denver,170
+North America,Texas,Desoto,171
+North America,New Jersey,East Orange,172
+North America,Wisconsin,East Troy,173
+North America,Wisconsin,Edgerton,174
+North America,Colorado,Englewood,175
+North America,New Jersey,Clifton,176
+North America,Washington,Fall City,177
+North America,Washington,Bothell,178
+North America,Massachusetts,Falmouth,179
+North America,Wisconsin,Fond Du Lac,180
+North America,Wisconsin,Fort Atkinson,181
+North America,Texas,Fort Worth,182
+North America,Florida,Fort Lauderdale,183
+North America,Massachusetts,Framingham,184
+North America,Virginia,Fredericksburg,185
+North America,Texas,Georgetown,186
+North America,New York,Elmira,187
+North America,Maryland,Germantown,188
+North America,Texas,Grand Prairie,189
+North America,Washington,Granger,190
+North America,Colorado,Greeley,191
+North America,Wisconsin,Green Bay,192
+North America,South Carolina,Greenville,193
+Asia,Beijing,Beijing,194
+North America,Connecticut,Hartford,195
+North America,Massachusetts,Haverhill,196
+North America,Texas,Hillsboro,197
+North America,Colorado,Grand Junction,198
+North America,Massachusetts,Hingham,199
+North America,Texas,Houston,200
+North America,Maryland,Howard,201
+North America,Texas,Humble,202
+North America,New Jersey,Hackensack,203
+North America,New York,Ithaca,204
+Europe,North Rhine-Westphalia,Koln,205
+North America,Florida,Jacksonville,206
+North America,New Jersey,Hoboken,207
+North America,New Jersey,Jersey City,208
+North America,Washington,Kennewick,209
+North America,Massachusetts,Holyoke,210
+North America,Florida,Key West,211
+North America,Texas,La Porte,212
+North America,Colorado,Lafayette,213
+Asia,Guangdong,Guangzhou,214
+North America,Florida,Lakeland,215
+North America,Maine,Lewiston,216
+North America,Texas,Lewisville,217
+North America,Texas,Longview,218
+Asia,Hong Kong,Hong Kong,219
+North America,Colorado,Loveland,220
+North America,Massachusetts,Lowell,221
+North America,Massachusetts,Lynn,222
+North America,Massachusetts,Leominster,223
+North America,Wisconsin,Madison,224
+North America,Wisconsin,Manitowoc,225
+North America,Colorado,Littleton,226
+North America,Texas,Marshall,227
+North America,Virginia,Martinsville,228
+North America,Wisconsin,Menasha,229
+North America,Florida,Miami,230
+North America,Texas,Midland,231
+North America,Colorado,Milliken,232
+North America,Texas,Minden,233
+North America,New Jersey,Montclair,234
+North America,New Jersey,Morristown,235
+North America,Massachusetts,Nantucket,236
+North America,Wisconsin,Milwaukee,237
+North America,Florida,Naples,238
+North America,Massachusetts,New Bedford,239
+North America,New Jersey,New Brunswick,240
+North America,Colorado,New Castle,241
+North America,Connecticut,New Haven,242
+North America,Connecticut,New London,243
+North America,New York,New York,244
+North America,New Jersey,Newark,245
+North America,Virginia,Norfolk,246
+North America,Washington,North Bend,247
+North America,Massachusetts,Northampton,248
+North America,Connecticut,Old Saybrook,249
+North America,Texas,Orange,250
+North America,California,Cerritos,251
+North America,Wisconsin,Oregon,252
+North America,Maine,Orono,253
+North America,Florida,Orlando,254
+North America,Texas,Carrollton,255
+North America,Colorado,Parker,256
+North America,Maryland,Parkville,257
+North America,Wisconsin,Oshkosh,258
+North America,Texas,Pasadena,259
+North America,New Jersey,Paterson,260
+North America,Massachusetts,Pittsfield,261
+North America,Texas,Plano,262
+North America,New Jersey,Passaic,263
+North America,New York,Plattsburgh,264
+North America,New York,Poestenkill,265
+Asia,Shanghai,Shanghai,266
+North America,New York,Oswego,267
+North America,Massachusetts,Quincy,268
+North America,Wisconsin,Racine,269
+North America,Wisconsin,Port Washington,270
+North America,Massachusetts,Provincetown,271
+North America,Maryland,Ridgely,272
+North America,Virginia,Roanoke,273
+North America,Texas,Richardson,274
+North America,New York,Rochester,275
+North America,Texas,Round Rock,276
+North America,Texas,San Antonio,277
+North America,Utah,Bountiful,278
+North America,Texas,Russellville,279
+North America,Wisconsin,Sheboygan,280
+North America,Texas,Shreveport,281
+North America,Georgia,Byron,282
+North America,Florida,Sebring,283
+North America,Colorado,Sedalia,284
+North America,Washington,Snoqualmie,285
+North America,Massachusetts,Somerville,286
+North America,Maine,South Portland,287
+North America,Texas,Spring,288
+North America,Wisconsin,Stoughton,289
+North America,Washington,Sunnyside,290
+North America,Florida,Tallahassee,291
+North America,New York,Syracuse,292
+North America,Texas,Texas City,293
+North America,Florida,Tampa,294
+Asia,Xinjiang,Urumqi,295
+North America,Colorado,Thornton,296
+North America,Washington,Toppenish,297
+North America,Washington,Veradale,298
+North America,New Jersey,Trenton,299
+North America,New Jersey,Vineland,300
+North America,Virginia,Virginia Beach,301
+North America,Washington,Wapato,302
+North America,Connecticut,Waterbury,303
+North America,Wisconsin,Waukesha,304
+North America,Colorado,Wheat Ridge,305
+North America,Virginia,Winchester,306
